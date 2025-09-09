@@ -55,6 +55,9 @@ Orders ↔ Returns
 
 4. Churn & Retention Page: Net Adds trend, customer lifecycle funnel
 
+   <img width="1416" height="789" alt="image" src="https://github.com/user-attachments/assets/c41b7d46-17ce-4cd0-a54c-f6e3660a0a84" />
+
+
 # ✅ Results & Insights
 
 Identified top-selling categories and products with high returns
